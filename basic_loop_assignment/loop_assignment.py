@@ -1,9 +1,10 @@
 """"
 Program: loop.py
 Author: Grayson Hardin
-Last date modified: 9/21/2020
+Last date modified: 9/28/2020
 
 Program contains a basic list that can be looped once or multiple times. Additionally, there is a second loop (x) that can print the numbers starting from 99 and end at 33.
+
 """
 
 number_list = [1, 2, 3, 4, 5]
