@@ -1,5 +1,5 @@
 """"
-Program: loop.py
+Program: loop_assignment.py
 Author: Grayson Hardin
 Last date modified: 9/28/2020
 
